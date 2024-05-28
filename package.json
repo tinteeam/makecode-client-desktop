@@ -1,7 +1,7 @@
 {
   "name": "makecode-client-desktop",
   "productName": "makecode-client-desktop",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "A makecode desktop client",
   "main": "src/index.js",
   "scripts": {
