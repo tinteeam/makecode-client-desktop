@@ -1,8 +1,8 @@
 {
   "name": "makecode-client-desktop",
   "productName": "makecode-client-desktop",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "version": "1.0.0-beta",
+  "description": "A makecode desktop client",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -20,7 +20,7 @@
     "@electron-forge/plugin-auto-unpack-natives": "^7.4.0",
     "@electron-forge/plugin-fuses": "^7.4.0",
     "@electron/fuses": "^1.8.0",
-    "electron": "30.0.8"
+    "electron": "30.2.0"
   },
   "keywords": [],
   "author": {
